@@ -38,6 +38,14 @@ The format of the file should be as follows:
 	allow: *
 	deny: 'src/js'
 
+## Implementation
+
+Robots implementing this standard are required to verify access to the repository before intitiating any of the following actions:
+
+1. Creating a pull request
+2. Submitting an issue
+3. Commenting on an exisiting issue or pull request
+
 
 
 
