@@ -1,3 +1,5 @@
+(This is a proposed standard. Please take a look at the [readme](https://github.com/hartez/vcs-robots/blob/master/readme.md) for more info)
+
 # vcs-robots.txt
 
 1. This file should be placed at the top level of the repository.
